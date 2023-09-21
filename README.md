@@ -1,5 +1,7 @@
 ## **Lead Scoring Case Study**
 
+<img src="https://github.com/EddieAmaitum/Lead-Scoring-Case-Study-Using-Logistic-Regression/blob/main/Lead%20scoring%20photo.jpg" alt="Lead Scoring photo" width="55%">
+
 ### **Summary of Problem Statement**
 X Education sells online courses to professionals through their website and marketing efforts. However, they struggle with low lead conversion rates, with only around 30% of acquired leads becoming paying customers. 
 
